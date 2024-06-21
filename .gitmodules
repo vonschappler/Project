@@ -1,0 +1,9 @@
+[submodule "Assets"]
+	path = Assets
+	url = https://github.com/vonschappler/Project-Assets.git
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/vonschappler/Project-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/vonschappler/Project-Frontend.git
