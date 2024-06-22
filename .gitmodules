@@ -8,3 +8,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/vonschappler/Project-Frontend.git
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/vonschappler/Project.wiki.git
