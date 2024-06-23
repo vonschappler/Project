@@ -1,4 +1,3 @@
-
 ## What is PROJECT?
 
 !['P' Branding in black circle with tag, "for organized success."](https://github.com/vonschappler/Project/wiki/logo.png)
